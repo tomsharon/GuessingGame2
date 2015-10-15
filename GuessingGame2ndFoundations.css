@@ -1,0 +1,63 @@
+h1 {
+	font-family: cursive;
+	margin: -10px 0 -20px -10px;
+  	font-size: 1.75em;
+  	font-weight: bold;
+	background-color: #C00000;
+	color: #FFF8DC;
+	text-align: center;
+	padding: 17px;
+	width: 99%;
+}
+
+h3 {
+	font-family: cursive;
+	background-color: #FFF8DC;
+	color: #C00000;
+	line-height: 2em;     /*line-height HAS SAME EFFECT AS PADDING*/
+	text-align: center;
+	margin-left: -10px;
+	width: 101.4%;
+}
+
+#input {
+	text-align: center;
+}
+
+#TownSquare {
+	text-align: center;
+}
+
+span {
+	color: white;
+	font-weight: bold;
+}
+
+button {
+	font-weight: bold;
+	color: #C00000;
+	background-color: #FFF8DC;
+	border-color: #C00000;
+}
+
+img {
+	border-style: solid;
+	border-top-color: #C00000;
+	width: auto;
+	margin-top: -20px;
+}
+
+#TownSquare {
+	list-style-type: none; 
+}
+
+#answer {
+	display: none;
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+
+/*#VictorySong {
+	display: none;
+}*/
